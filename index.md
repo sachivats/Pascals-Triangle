@@ -1,2 +1,1 @@
-theme: minimal
-title: Pascals Triangle
+title: "Pascal's Triangle"
