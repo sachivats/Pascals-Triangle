@@ -2,15 +2,18 @@
 Pascal's triangle is a triangular array constructed by summing adjacent elements in preceding rows. Pascal's triangle contains the values of the binomial coefficient. It is named after French mathematician Blaise Pascal.
 
 ![image](https://user-images.githubusercontent.com/66630745/84221436-dc1e4400-aaf2-11ea-8208-fbebc1355630.png)
+
 *Binomial expansion in Pascal's Triangle*
 
 ![image](https://user-images.githubusercontent.com/66630745/84221468-ecceba00-aaf2-11ea-83da-59dfd9e25ae9.png)
+
 *All the extreme left and right boxes contain the number 1. The center boxes are a sum of the two numbers above it. For example 1 + 3 = 4.*
 
 ## Who was Blaise Pascal? 
 Blaise Pascal (1623 - 1622) made many contributions and inventions in mathematics and physics. His contributions to math include Pascal's triangle and probability theory. Blaise Pascal was also one of the first few contributors to the early digital calculator.
 
 ![image](https://user-images.githubusercontent.com/66630745/84221875-d5440100-aaf3-11ea-928e-da52a5a5f938.png)
+
 *Blaise Pascal*
 
 ## Patterns in the Pascal’s Triangle:
@@ -51,8 +54,13 @@ The Pascal’s Triangle can be used to find combinations, list number patterns (
 ## Citations:
 
 •  https://www.mathsisfun.com/pascals-triangle.html#:~:text=One%20of%20the%20most%20interesting,directly%20above%20it%20added%20together.
+
 •  [https://sites.google.com/site/funproblemsolving/topics-1/pascal-s-triangle](https://sites.google.com/site/funproblemsolving/topics-1/pascal-s-triangle)
+
 •  [https://www.britannica.com/biography/Blaise-Pascal](https://www.britannica.com/biography/Blaise-Pascal)
+
 •  [https://www.onlinemathlearning.com/binomial-theorem-3.html](https://www.onlinemathlearning.com/binomial-theorem-3.html)
+
 •  [https://brilliant.org/wiki/pascals-triangle/#:~:text=Pascal's%20triangle%20is%20a%20triangular,Pascal%20(1623%20%2D%201662).](https://brilliant.org/wiki/pascals-triangle/#:~:text=Pascal's%20triangle%20is%20a%20triangular,Pascal%20(1623%20%2D%201662).)
+
 •  [https://study.com/academy/lesson/blaise-pascal-contributions-inventions-facts.html](https://study.com/academy/lesson/blaise-pascal-contributions-inventions-facts.html)
