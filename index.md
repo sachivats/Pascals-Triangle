@@ -53,7 +53,7 @@ The Pascal’s Triangle can be used to find combinations, list number patterns (
 
 ## Citations:
 
-•  https://www.mathsisfun.com/pascals-triangle.html#:~:text=One%20of%20the%20most%20interesting,directly%20above%20it%20added%20together.
+•  [https://www.mathsisfun.com/pascals-triangle.html#:~:text=One%20of%20the%20most%20interesting,directly%20above%20it%20added%20together.](https://www.mathsisfun.com/pascals-triangle.html#:~:text=One%20of%20the%20most%20interesting,directly%20above%20it%20added%20together.)
 
 •  [https://sites.google.com/site/funproblemsolving/topics-1/pascal-s-triangle](https://sites.google.com/site/funproblemsolving/topics-1/pascal-s-triangle)
 
