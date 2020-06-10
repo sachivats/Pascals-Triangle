@@ -1,4 +1,4 @@
-# Pascals Triangle
+
 Pascal's triangle is a triangular array constructed by summing adjacent elements in preceding rows. Pascal's triangle contains the values of the binomial coefficient. It is named after French mathematician Blaise Pascal.
 
 ![image](https://user-images.githubusercontent.com/66630745/84221436-dc1e4400-aaf2-11ea-8208-fbebc1355630.png)
